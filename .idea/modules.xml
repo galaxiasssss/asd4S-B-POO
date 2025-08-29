@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/suzuki.iml" filepath="$PROJECT_DIR$/.idea/suzuki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/asd4S-B-POO.iml" filepath="$PROJECT_DIR$/.idea/asd4S-B-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suzuki/suzuki.iml" filepath="$PROJECT_DIR$/suzuki/suzuki.iml" />
     </modules>
   </component>
 </project>
